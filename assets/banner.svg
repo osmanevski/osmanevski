@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Osman Çekilmez — simulators, desktop tools, automation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#12233f"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#a5d6ff" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <path d="M0 215 C 60 215, 70 165, 120 165 S 180 265, 240 265 S 300 175, 360 175 S 420 250, 480 250 S 540 190, 600 190 S 660 240, 720 240 S 780 200, 840 200 S 900 228, 960 228 S 1020 210, 1080 210 S 1140 218, 1200 218" fill="none" stroke="url(#wave)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M0 235 C 60 235, 70 205, 120 205 S 180 262, 240 262 S 300 212, 360 212 S 420 252, 480 252 S 540 220, 600 220 S 660 246, 720 246 S 780 226, 840 226 S 900 240, 960 240 S 1020 232, 1080 232 S 1140 236, 1200 236" fill="none" stroke="#a5d6ff" stroke-opacity="0.25" stroke-width="2" stroke-linecap="round"/>
+  <text x="72" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#f0f6fc">Osman Çekilmez</text>
+  <text x="74" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#a5d6ff">simulators · desktop tools · automation</text>
+</svg>
