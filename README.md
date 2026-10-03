@@ -34,8 +34,8 @@ I build small tools for things I actually use: circuit and audio simulators, des
 ## Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanevski&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Most used languages">
-  <img height="165" src="https://streak-stats.demolab.com?user=osmanevski&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&currStreakNum=8b949e&sideLabels=8b949e&dates=8b949e" alt="Contribution streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanevski&layout=compact&disable_animations=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Most used languages">
+  <img height="165" src="https://streak-stats.demolab.com?user=osmanevski&disable_animations=true&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=8b949e&currStreakNum=8b949e&sideLabels=8b949e&dates=8b949e" alt="Contribution streak">
 </p>
 
 ---
