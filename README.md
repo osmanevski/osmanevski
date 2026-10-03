@@ -4,9 +4,9 @@
 
 # Hi, I'm Osman 👋
 
-I build small tools for things I actually use: circuit and audio simulators, desktop apps, and the automation that keeps my own servers and playlists in order.
+I build small tools for things I actually use: circuit simulators, desktop apps, and the automation that keeps my own servers and playlists in order.
 
-<sub>🇹🇷 Gerçekten kullandığım şeyler için küçük araçlar yapıyorum: devre ve ses simülatörleri, masaüstü uygulamalar, bir de kendi sunucularımı ve çalma listelerimi düzende tutan otomasyonlar.</sub>
+<sub>🇹🇷 Gerçekten kullandığım şeyler için küçük araçlar yapıyorum: devre simülatörleri, masaüstü uygulamalar, bir de kendi sunucularımı ve çalma listelerimi düzende tutan otomasyonlar.</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -22,7 +22,6 @@ I build small tools for things I actually use: circuit and audio simulators, des
 | | EN | TR |
 |---|---|---|
 | 🧮 **[IndyMAT](https://github.com/osmanevski/IndyMAT)** | Local desktop workspace for matrix-based scientific computing, data analysis and plotting with GNU Octave. | GNU Octave ile matris tabanlı bilimsel hesaplama, veri analizi ve grafik için yerel masaüstü ortamı. |
-| 🎸 **[Amplifier-Simulator](https://github.com/osmanevski/Amplifier-Simulator)** · [live](https://osmanevski.github.io/Amplifier-Simulator/) | Modified 5F1 tube guitar amp simulator (12AX7 + 6V6GT + 5Y3GT). | 5F1 tabanlı modifiye tüplü gitar amfisi simülatörü. |
 | 🔋 **[Charger-Simulator](https://github.com/osmanevski/Charger-Simulator)** | Battery Lab Simulator — offline bench simulation of a 3S Li-ion CC/CV charger circuit (graduation project). | Battery Lab Simulator — 3S Li-ion CC/CV şarj devresinin çevrimdışı simülasyonu (bitirme projesi). |
 | 🖼️ **[PhotoDesk](https://github.com/osmanevski/PhotoDesk)** | Crop and straighten scanned photos and pair them with their handwritten backs. Offline, optional AI. | Taramaları kırp, düzleştir ve yazılı arkalarıyla birleştir. Çevrimdışı, isteğe bağlı yapay zekâ. |
 | 📊 **[BeszelBar.VO](https://github.com/osmanevski/BeszelBar.VO)** | A BeszelBar fork that keeps working when the hub is down by reading machines directly over SSH. | Hub çöktüğünde makineleri doğrudan SSH ile okuyarak çalışmaya devam eden BeszelBar çatalı. |
