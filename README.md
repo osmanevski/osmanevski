@@ -11,6 +11,7 @@ I build small tools for things I actually use: circuit simulators, desktop apps,
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white" alt="GNU Octave">
@@ -21,14 +22,15 @@ I build small tools for things I actually use: circuit simulators, desktop apps,
 
 | | EN | TR |
 |---|---|---|
+| 💡 **[Odaxium](https://github.com/osmanevski/Odaxium)** | Lighting design and calculation app for macOS: room layouts, luminaires, illuminance and glare, validated against Radiance. Rust + Tauri. | Mac için aydınlatma hesap ve simülasyon uygulaması: oda yerleşimi, armatürler, aydınlık düzeyi ve kamaşma, sonuçlar Radiance ile doğrulanmış. Rust + Tauri. |
 | 🧮 **[IndyMAT](https://github.com/osmanevski/IndyMAT)** | Local desktop workspace for matrix-based scientific computing, data analysis and plotting with GNU Octave. | GNU Octave ile matris tabanlı bilimsel hesaplama, veri analizi ve grafik için yerel masaüstü ortamı. |
 | 🔋 **[Charger-Simulator](https://github.com/osmanevski/Charger-Simulator)** | Battery Lab Simulator — offline bench simulation of a 3S Li-ion CC/CV charger circuit (graduation project). | Battery Lab Simulator — 3S Li-ion CC/CV şarj devresinin çevrimdışı simülasyonu (bitirme projesi). |
 | 🖼️ **[PhotoDesk](https://github.com/osmanevski/PhotoDesk)** | Crop and straighten scanned photos and pair them with their handwritten backs. Offline, optional AI. | Taramaları kırp, düzleştir ve yazılı arkalarıyla birleştir. Çevrimdışı, isteğe bağlı yapay zekâ. |
+| 🔎 **[IndyGrab](https://github.com/osmanevski/IndyGrab)** | Serverless Chrome extension for eBay/Amazon product research: finds what sells on eBay and collects matching Amazon ASINs, with optional AI risk checks. | eBay'de satan ürünleri bulup Amazon ASIN havuzuna toplayan, sunucusuz çalışan Chrome eklentisi; isteğe bağlı AI risk kontrolü. |
 | 📊 **[BeszelBar.VO](https://github.com/osmanevski/BeszelBar.VO)** | A BeszelBar fork that keeps working when the hub is down by reading machines directly over SSH. | Hub çöktüğünde makineleri doğrudan SSH ile okuyarak çalışmaya devam eden BeszelBar çatalı. |
-| 🎧 **[music-sync](https://github.com/osmanevski/music-sync)** | Sync Spotify playlists to YouTube Music: incremental sync, Telegram bot control, duplicate cleanup. | Spotify listelerini YouTube Music'e eşitler: artımlı eşitleme, Telegram bot kontrolü, kopya temizliği. |
-| 🔎 **[IndyGrab.VO](https://github.com/osmanevski/IndyGrab.VO)** | Serverless Chrome extension for eBay/Amazon product research: finds what sells on eBay and collects matching Amazon ASINs, with optional AI risk checks. | eBay'de satan ürünleri bulup Amazon ASIN havuzuna toplayan, sunucusuz çalışan Chrome eklentisi; isteğe bağlı AI risk kontrolü. |
+| 🎧 **[MusicSync](https://github.com/osmanevski/MusicSync)** | Sync Spotify playlists to YouTube Music: incremental sync, Telegram bot control, duplicate cleanup. | Spotify listelerini YouTube Music'e eşitler: artımlı eşitleme, Telegram bot kontrolü, kopya temizliği. |
 | 📚 **[KitapRafi](https://github.com/osmanevski/KitapRafi)** | Scroll-animated book showcase site with an admin panel and n8n-driven book intake. | Kaydırma animasyonlu kitap tanıtım sitesi, yönetim paneli ve n8n destekli kitap ekleme otomasyonu. |
-| 📺 **[samsung-tv](https://github.com/osmanevski/samsung-tv)** | Samsung Tizen TV remote control and IPTV tools. | Samsung Tizen TV uzaktan kumanda ve IPTV araçları. |
+| 📺 **[SamsungTV](https://github.com/osmanevski/SamsungTV)** | Samsung Tizen TV remote control and IPTV tools. | Samsung Tizen TV uzaktan kumanda ve IPTV araçları. |
 | 🛒 **[sellermind-pro.VO](https://github.com/osmanevski/sellermind-pro.VO)** | AI-assisted customer service and product research assistant for eBay sellers (Chrome extension). | eBay satıcıları için yapay zekâ destekli müşteri hizmetleri ve ürün araştırma asistanı (Chrome uzantısı). |
 
 ## Stats
